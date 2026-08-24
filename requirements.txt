@@ -10,3 +10,5 @@ google-genai
 pydantic
 python-dotenv
 requests
+langgraph-checkpoint-sqlite
+langsmith
