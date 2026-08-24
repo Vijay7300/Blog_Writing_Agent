@@ -1,0 +1,26 @@
+# Environment
+myenv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated files
+images/
+*.zip
+
+# Database / local state
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
